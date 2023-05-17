@@ -1,0 +1,3 @@
+[submodule "3rd-party/Chattr-for-KOTH"]
+	path = 3rd-party/Chattr-for-KOTH
+	url = https://github.com/fasc8/Chattr-for-KOTH
